@@ -1,0 +1,6 @@
+#sidebar{
+    width: 200px;
+    height: 100%;
+    background-image: linear-gradient(to bottom, #da552f,#da552f, #ff9f84);
+    z-index: -1;
+}
